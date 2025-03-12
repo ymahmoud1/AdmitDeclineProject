@@ -1,4 +1,4 @@
-**Admit Decline Dashboard**
+# Admit Decline Dashboard
 
 This repository contains a Tableau dashboard that provides insights into survey responses of admitted graduate students to the Krannert/Daniels School of Business who ended up declining their offer. The dashboard includes multiple views that analyze survey responses based on various attributes such as year, demographics, and geographic distribution. Below is a breakdown of each dashboard page.
 
