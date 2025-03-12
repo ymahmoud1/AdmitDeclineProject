@@ -2,6 +2,15 @@
 
 This repository contains a Tableau dashboard that provides insights into survey responses of admitted graduate students to the Krannert/Daniels School of Business who ended up declining their offer. The dashboard includes multiple views that analyze survey responses based on various attributes such as year, demographics, and geographic distribution. Below is a breakdown of each dashboard page.
 
+**📌 How to Use**
+
+1. Download the Tableau dashboard (file ending with .twbx)
+
+2. Explore the pages by using filters to customize the displayed data.
+
+
+# Breakdown of Pages
+
 **📊 Summary Statistics**
 
 This page provides an overview of survey responses across different years and respondent demographics. It includes:
@@ -67,10 +76,4 @@ This page visualizes the flow of participants from the programs they initially a
 This section provides a combination analysis on both the mix of programs applied to and the deciding factors that applicants picked.
 
 Explanation of the graphs on the dashboard!
-
-**📌 How to Use**
-
-1. Download the Tableau dashboard (file ending with .twbx)
-
-2. Explore the pages by using filters to customize the displayed data.
 
